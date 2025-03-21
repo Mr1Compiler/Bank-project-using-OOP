@@ -3,7 +3,6 @@
 ## 📌 About the Project  
 This **Bank System** is a fully functional **console-based application** developed in **C++** using **Object-Oriented Programming (OOP)** principles. It simulates real-world banking operations, including **user authentication, account management, transactions, and currency exchange**. The system uses **text files** for data storage, ensuring persistence across sessions.
 
-![Bank System Screenshot](image1.png)
 
 ## ✨ Features  
 ✔ **User Authentication** – Secure login system for users and administrators.  
